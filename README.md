@@ -3,16 +3,16 @@ Here is my Kaggle Courses, Exercises &amp; Solutions. Also, find the course deta
 
 ## Python
 
-1. [Hello, Python](python/01-syntax-variables-and-numbers.ipynb)  
+1. [Hello, Python](Python/exercise_01-syntax-variables-and-numbers.ipynb)  
 A quick introduction to Python syntax, variable assignment, and numbers.
 
-2. [Functions and Getting Help](python/02-functions-and-getting-help.ipynb)  
+2. [Functions and Getting Help](Python/exercise_02-functions-and-getting-help.ipynb)  
 Calling functions and defining our own, and using Python's builtin documentation.
 
-3. [Booleans and Conditionals](python/03-booleans-and-conditionals.ipynb)  
+3. [Booleans and Conditionals](Python/exercise_03-booleans-and-conditionals.ipynb)  
 Using booleans for branching logic.
 
-4. [Lists and Tuples](python/04-lists.ipynb)  
+4. [Lists and Tuples](Python/exercise_04-lists.ipynb)  
 Lists and the things you can do with them. Includes indexing, slicing and mutating.
 
 5. [Loops and List Comprehensions](python/05-loops-and-list-comprehensions.ipynb)  
