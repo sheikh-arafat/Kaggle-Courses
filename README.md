@@ -1,5 +1,5 @@
 # Kaggle-Courses
-Here is my Kaggle Courses, Exercises &amp; Solutions.
+Here is my Kaggle Courses, Exercises &amp; Solutions. Also, find the course details in the given link - https://www.kaggle.com/learn/python
 
 ## Python
 
